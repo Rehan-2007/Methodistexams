@@ -1,0 +1,8 @@
+{
+  "name": "Methodist College Results",
+  "description": "Examination results portal for Methodist College of Engineering & Technology",
+  "requestFrame": "none",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
